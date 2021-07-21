@@ -1,0 +1,7 @@
+C:\Users\Taylor\Desktop\Arcane Technology Fork\Source\obj\Debug\Arcane Technology.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\Arcane Technology Fork\Source\obj\Debug\Arcane Technology.csproj.CoreCompileInputs.cache
+F:\Games\SteamLibrary\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Arcane Technology\1.1\Assemblies\Arcane Technology.dll
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Arcane Technology Fork\Source\obj\Debug\Arcane Technology.csproj.AssemblyReference.cache
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Arcane Technology Fork\Source\obj\Debug\Arcane Technology.csproj.CoreCompileInputs.cache
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Arcane Technology Fork\Source\obj\Debug\Arcane Technology.csproj.CopyComplete
+F:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\Arcane Technology Fork\Source\obj\Debug\Arcane Technology.dll
